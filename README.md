@@ -3,6 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikbackman&hide=javascript,html,css&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 # Links
+![erikbackman.github.io](file:///home/ebn/src/erikbackman.github.io/docs/index.html)
+
 ![Emacs config](https://github.com/erikbackman/nixos-config/blob/master/modules/programs/emacs/config/ebn-init.el)
 
 <!--
