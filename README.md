@@ -4,6 +4,9 @@
 
 # Links
 
+
+[Blog](https://erikbackman.github.io/)
+
 ![Emacs config](https://github.com/erikbackman/nixos-config/blob/master/modules/programs/emacs/config/ebn-init.el)
 
 <!--
