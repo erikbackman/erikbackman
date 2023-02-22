@@ -7,7 +7,7 @@
 
 [Blog](https://erikbackman.github.io/)
 
-![Emacs config](https://github.com/erikbackman/.emacs.d)
+[Emacs config](https://github.com/erikbackman/.emacs.d)
 
 <!--
 **erikbackman/erikbackman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
