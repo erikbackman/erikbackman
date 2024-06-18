@@ -1,7 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikbackman&show_icons=true&theme=merko&disable_animations=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikbackman&hide=javascript,html,css&theme=merko&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikbackman&hide=javascript,html,css&theme=merko&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # Links
 
