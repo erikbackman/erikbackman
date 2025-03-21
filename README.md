@@ -2,7 +2,8 @@
 
 [Projects on Codeberg](https://codeberg.org/ebn)
 
-[Blog](https://erikbackman.github.io/)
+[Blog](https://ebn.codeberg.page/)
+<!--[Blog](https://erikbackman.github.io/) -->
 
 [Emacs config](https://github.com/erikbackman/.emacs.d)
 
