@@ -1,14 +1,10 @@
 # Links
 
-[Projects on Codeberg](https://codeberg.org/ebn)
+- [Projects on Codeberg](https://codeberg.org/ebn)
+- [Blog](https://ebn.codeberg.page/) <!--[Blog](https://erikbackman.github.io/) -->
+- [Emacs config](https://codeberg.org/ebn/.emacs.d)
+- [Emacs theme](https://codeberg.org/ebn/nothing-dark.el)
 
-[Blog](https://ebn.codeberg.page/)
-<!--[Blog](https://erikbackman.github.io/) -->
-
-[Emacs config](https://github.com/erikbackman/.emacs.d)
-
-
-#
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikbackman&show_icons=true&theme=merko&disable_animations=true) -->
 
